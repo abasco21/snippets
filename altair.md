@@ -39,6 +39,13 @@ bar_trends=alt.Chart(trends).mark_bar().encode(
   )
 
 ```
+
+## Maps
+``` python
+
+```
+
+
 ## Concatenation
 ``` python
 bar_trends|line_trends
