@@ -50,7 +50,7 @@ bar_trends|line_trends
 bar_trends & line_trends
 ```
 
-##
+## Both
 ``` python
 bar_trends + line_trends
 ```
